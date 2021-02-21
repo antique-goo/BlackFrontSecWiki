@@ -110,5 +110,5 @@
 
 ---
 
-* [关于我们](guan-yu-wo-men.md)
+* [关于我们](about.md)
 
