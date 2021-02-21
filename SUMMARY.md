@@ -24,7 +24,7 @@
   * [漏扫爬虫](xin-xi-shou-ji/wu-qi-ku/lou-sao-pa-chong.md)
   * [漏扫选择](xin-xi-shou-ji/wu-qi-ku/lou-sao-xuan-ze.md)
 * [源码收集](xin-xi-shou-ji/yuan-ma-shou-ji.md)
-* [红队速查](xin-xi-shou-ji/hong-dui-su-cha.md)
+* [渗透备忘录](xin-xi-shou-ji/hong-dui-su-cha.md)
 
 ## 情报收集阶段
 
