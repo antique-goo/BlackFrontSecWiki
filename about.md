@@ -7,9 +7,6 @@ description: >-
 
 ## 团队成员
 
-* @antique
-* 擅长技能：Web安全、代码审计、红队攻击
-
 {% hint style="info" %}
 @antique
 
