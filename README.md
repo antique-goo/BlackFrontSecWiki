@@ -40,3 +40,5 @@ description: 渗透测试文库
 
 公众号
 
+![&#x9ED1;&#x950B;&#x5B89;&#x5168;&#x5C0F;&#x7EC4;](.gitbook/assets/qrcode_for_gh_9e3046d3708a_344.jpg)
+
